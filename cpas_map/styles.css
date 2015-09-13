@@ -1,0 +1,13 @@
+/*CSS stylesheet for the D3 test*/                                          
+p {
+  font-size: 20px;
+  font-weight: bold;
+  background-color: none;
+  color: black;
+}
+
+#background {
+  fill: lightgrey;
+  pointer-events: all;
+}
+

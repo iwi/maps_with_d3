@@ -1,0 +1,14 @@
+/*CSS stylesheet for the D3 test*/                                          
+.background {
+  fill: none;
+  pointer-events: all;
+}
+
+#counties {
+  fill: #aaa;
+}
+
+#counties .active {
+  fill: orange;
+}
+
